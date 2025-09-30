@@ -4,6 +4,8 @@ description: Lecture handout on the five basic equations of semiconductor device
 file: /courses/6-012-microelectronic-devices-and-circuits-fall-2009/d65b60631ae1d84dce7c0051412f0b7a_MIT6_012F09_lec03_five_eqn.pdf
 file_size: 211863
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

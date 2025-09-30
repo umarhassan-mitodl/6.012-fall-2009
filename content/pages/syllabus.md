@@ -2,6 +2,8 @@
 content_type: page
 description: This syllabus section provides the information on course meeting times,
   handouts, readings, problem sets, tutorials, exams, design problems, and grading.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -29,7 +31,7 @@ Readings
 
 ### Required Textbook
 
-Fonstad, Clifton. _Microelectronic Devices and Circuits_. 2006 Electronic Edition. Available online at {{% resource_link "41535ded-a27d-4482-92ce-a9cbde3bb847" "DSpace@MIT" %}}.
+Fonstad, Clifton. _Microelectronic Devices and Circuits_. 2006 Electronic Edition. Available online at [DSpace@MIT](http://dspace.mit.edu/handle/1721.1/34219).
 
 You may also wish to refer to the following:
 

@@ -4,6 +4,8 @@ description: Lecture handout on CMOS gate delay.
 file: /courses/6-012-microelectronic-devices-and-circuits-fall-2009/c5d77f1bbdd91687cf4173d3de2c6574_MIT6_012F09_lec15_cmos.pdf
 file_size: 75138
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

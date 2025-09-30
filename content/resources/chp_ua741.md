@@ -6,6 +6,8 @@ description: "The \xB5A741 operational amplifier, which is discussed in Lec #22.
 file: /courses/6-012-microelectronic-devices-and-circuits-fall-2009/b4e4e304f0025fabffcda4b8c0c0a347_chp_ua741.jpg
 file_size: 67322
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

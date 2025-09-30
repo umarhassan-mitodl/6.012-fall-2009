@@ -4,6 +4,8 @@ description: Solutions to an exam on microelectronic devices and circuits.
 file: /courses/6-012-microelectronic-devices-and-circuits-fall-2009/12df3e5dc374f56d353f8d4f1f121b8d_MIT6_012F09_exam1_sol.pdf
 file_size: 255311
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

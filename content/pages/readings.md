@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides the schedule of assigned readings from the course
   textbook.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -11,7 +13,7 @@ uid: cee14a75-5724-ed6f-7695-af6a5d97687d
 
 The assigned readings are from the course textbook:
 
-Fonstad, Clifton. _Microelectronic Devices and Circuits_, 2006 Electronic Edition. Available online at {{% resource_link "41535ded-a27d-4482-92ce-a9cbde3bb847" "DSpace@MIT" %}}.
+Fonstad, Clifton. _Microelectronic Devices and Circuits_, 2006 Electronic Edition. Available online at [DSpace@MIT](http://dspace.mit.edu/handle/1721.1/34219).
 
 Abbreviations
 -------------

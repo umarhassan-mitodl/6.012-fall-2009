@@ -5,6 +5,8 @@ description: 'Lecture handout on two active loads for differential amplifiers: c
 file: /courses/6-012-microelectronic-devices-and-circuits-fall-2009/27dce54a63b9a793be542cb457d1c865_MIT6_012F09_lec20_loads.pdf
 file_size: 164153
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

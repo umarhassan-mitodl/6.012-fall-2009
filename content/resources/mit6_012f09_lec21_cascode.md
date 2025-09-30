@@ -4,6 +4,8 @@ description: Lecture handout on the cascode two-stage amplifier.
 file: /courses/6-012-microelectronic-devices-and-circuits-fall-2009/9fce7430fe6c477c2f619ddac1e7eb1a_MIT6_012F09_lec21_cascode.pdf
 file_size: 107781
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
