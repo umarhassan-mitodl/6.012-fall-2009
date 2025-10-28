@@ -4,8 +4,6 @@ description: Lecture handout on CMOS gate delays, power, and scaling.
 file: /courses/6-012-microelectronic-devices-and-circuits-fall-2009/9181057dd1fc814055e9f56f32d91cfa_MIT6_012F09_lec16_scaling.pdf
 file_size: 96476
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

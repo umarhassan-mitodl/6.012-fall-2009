@@ -8,8 +8,6 @@ description: Slides prepared for the Spring 2006 6.012 students to accompany tha
 file: /courses/6-012-microelectronic-devices-and-circuits-fall-2009/092242eb63030c83b72ff18a0a628605_MIT6_012F09_design_s06.pdf
 file_size: 542601
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

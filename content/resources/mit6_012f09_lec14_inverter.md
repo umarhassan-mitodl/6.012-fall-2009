@@ -4,8 +4,6 @@ description: Lecture handout on inverter analysis and design.
 file: /courses/6-012-microelectronic-devices-and-circuits-fall-2009/0eddab43e246fc2d62368fe37516020c_MIT6_012F09_lec14_inverter.pdf
 file_size: 178458
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

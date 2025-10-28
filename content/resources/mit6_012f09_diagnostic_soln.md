@@ -5,8 +5,6 @@ description: Diagnostic exercise on basic linear circuit analysis, linear differ
 file: /courses/6-012-microelectronic-devices-and-circuits-fall-2009/76d81e87e446421226c49abfe3c693b4_MIT6_012F09_diagnostic_soln.pdf
 file_size: 257668
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

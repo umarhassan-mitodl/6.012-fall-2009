@@ -4,8 +4,6 @@ description: Design problem on circuit design.
 file: /courses/6-012-microelectronic-devices-and-circuits-fall-2009/7fe6e5167ac1d9903b188027b7caab19_MIT6_012F09_design.pdf
 file_size: 314591
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
